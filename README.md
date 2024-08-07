@@ -1,6 +1,6 @@
 ## Ola, me chamo Hanayel Prasilde 
 
-- 🚀 Atualmente meu foco é Java
+- 🚀 Atualmente estudo as linguagens Java e Phyton.
 - 👾 No momento estou estudando SQL, PL/SQL, APEX, HTML, Css.
 
 <div style= "display: inline-block"><br>
