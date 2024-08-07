@@ -1,7 +1,7 @@
 ## Ola, me chamo Hanayel Prasilde 
 
 - 🚀 Atualmente meu foco é Java
-- 👾 No momento estou estudando React e Typescript.
+- 👾 No momento estou estudando SQL, PL/SQL, APEX, HTML, Css.
 
 <div style= "display: inline-block"><br>
 <img aline="center" heitgh="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" />
