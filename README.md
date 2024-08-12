@@ -2,7 +2,7 @@
 Sou uma estudante do curso de Engenharia de software, busco crescer na area de desenvolvimento de sistemas e analise de dados.
 
 - 🚀 Atualmente estudo as linguagens Java e Python.
-- 👾 No momento estou estudando SQL, PL/SQL, APEX, HTML, Css e javacript.
+- 👾 No momento estou estudando SQL, PL/SQL, APEX, HTML, Css e Javacript.
 
 <div style= "display: inline-block"><br>
 <img aline="center" heitgh="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
