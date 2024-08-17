@@ -1,4 +1,4 @@
-## Ola, me chamo Hanayel Prasilde 
+## Ola, me chamo Hanayel
 Sou uma estudante do curso de Engenharia de software pela Universidade federal do Ceará, busco crescer na area de desenvolvimento de sistemas e analise de dados.
 
 - 🚀 Tenho experiencia com as linguagens C, Java, Python, Javascript e esse github é destinado a publicar projetos que eu fiz/faço/vou fazer.
